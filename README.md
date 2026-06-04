@@ -57,6 +57,13 @@ O conjunto de dados contém:
 * Matplotlib
 * Seaborn
 
+* ## Dataset
+
+O dataset utilizado foi o Brazilian E-Commerce Public Dataset by Olist.
+
+Link para download:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Conclusão
 
 A utilização de Machine Learning permitiu identificar padrões relevantes de consumo e criar modelos capazes de apoiar decisões estratégicas em operações de comércio eletrônico.
