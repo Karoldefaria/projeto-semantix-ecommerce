@@ -42,11 +42,12 @@ O conjunto de dados contém:
 
 ## Principais Resultados
 
-* Receita superior a R$ 16 milhões
-* Ticket médio de aproximadamente R$ 161
-* Segmentação de clientes em quatro grupos
-* Modelos preditivos capazes de estimar o valor das compras
-
+- Receita superior a R$ 16 milhões
+- Ticket médio aproximado de R$ 161
+- Segmentação de clientes em quatro grupos
+- Melhor modelo: Random Forest
+- R² médio em validação cruzada: 0,9811
+  
 ## Tecnologias
 
 * Python
@@ -57,7 +58,7 @@ O conjunto de dados contém:
 * Matplotlib
 * Seaborn
 
-* ## Dataset
+## Dataset
 
 O dataset utilizado foi o Brazilian E-Commerce Public Dataset by Olist.
 
